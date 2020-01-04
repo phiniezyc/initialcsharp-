@@ -6,7 +6,7 @@ namespace initialcsharp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!!!\nAloha");
+            Console.WriteLine("Hello World!!!\nAloha NCR");
         }
     }
 }
