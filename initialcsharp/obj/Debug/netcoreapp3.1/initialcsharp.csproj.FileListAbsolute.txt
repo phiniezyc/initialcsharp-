@@ -1,0 +1,11 @@
+/Users/Chance/Code/Projects/initialcsharp-/initialcsharp/bin/Debug/netcoreapp3.1/initialcsharp
+/Users/Chance/Code/Projects/initialcsharp-/initialcsharp/bin/Debug/netcoreapp3.1/initialcsharp.deps.json
+/Users/Chance/Code/Projects/initialcsharp-/initialcsharp/bin/Debug/netcoreapp3.1/initialcsharp.runtimeconfig.json
+/Users/Chance/Code/Projects/initialcsharp-/initialcsharp/bin/Debug/netcoreapp3.1/initialcsharp.runtimeconfig.dev.json
+/Users/Chance/Code/Projects/initialcsharp-/initialcsharp/bin/Debug/netcoreapp3.1/initialcsharp.dll
+/Users/Chance/Code/Projects/initialcsharp-/initialcsharp/bin/Debug/netcoreapp3.1/initialcsharp.pdb
+/Users/Chance/Code/Projects/initialcsharp-/initialcsharp/obj/Debug/netcoreapp3.1/initialcsharp.csprojAssemblyReference.cache
+/Users/Chance/Code/Projects/initialcsharp-/initialcsharp/obj/Debug/netcoreapp3.1/initialcsharp.AssemblyInfoInputs.cache
+/Users/Chance/Code/Projects/initialcsharp-/initialcsharp/obj/Debug/netcoreapp3.1/initialcsharp.AssemblyInfo.cs
+/Users/Chance/Code/Projects/initialcsharp-/initialcsharp/obj/Debug/netcoreapp3.1/initialcsharp.dll
+/Users/Chance/Code/Projects/initialcsharp-/initialcsharp/obj/Debug/netcoreapp3.1/initialcsharp.pdb
