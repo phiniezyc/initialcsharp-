@@ -1,13 +1,13 @@
 using System;
 
-namespace test
+namespace Test
 {
   using System.IO;
-  class Program
+  class Second_Program
   {
-    static void Second(string[] args)
+    public void Second(string message)
     {
-      Console.WriteLine("2nd connected", args);
+      Console.WriteLine("2nd connected", message);
     }
   }
 }

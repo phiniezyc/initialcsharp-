@@ -1,5 +1,5 @@
 ﻿using System;
-using test;
+using Test;
 namespace initialcsharp
 {
   using System.IO;
@@ -14,7 +14,8 @@ namespace initialcsharp
       string[] fileContents = File.ReadAllLines("csharptest.txt");
       Console.WriteLine(fileContents);
 
-      Second(["yes"]);
+      Test.Second_Program test_import = new Second_Program();
+      test_import.Second("yes!");
     }
   }
 }
