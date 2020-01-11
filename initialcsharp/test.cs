@@ -5,7 +5,7 @@ namespace test
   using System.IO;
   class Program
   {
-    static void Main(string[] args)
+    static void Second(string[] args)
     {
       string[] lines = { "Testing", "It work! You know it", "You know it!" };
       File.WriteAllLines("csharptest.txt", lines);
