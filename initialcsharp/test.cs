@@ -1,6 +1,6 @@
 using System;
 
-namespace initialcsharp
+namespace test
 {
   using System.IO;
   class Program
