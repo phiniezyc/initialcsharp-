@@ -1,5 +1,5 @@
 ﻿using System;
-
+using test;
 namespace initialcsharp
 {
   using System.IO;
@@ -7,9 +7,9 @@ namespace initialcsharp
   {
     static void Main(string[] args)
     {
-      string[] lines = { "Testing", "It work! You know it", "You know it!" };
+      string[] lines = { "This is a test", "It work!", "Yep!" };
       File.WriteAllLines("csharptest.txt", lines);
-      Console.WriteLine("Hello World!!!!!!!!\nAloha Engineering");
+      Console.WriteLine("Hello World!\nAloha Engineering");
 
       string[] fileContents = File.ReadAllLines("csharptest.txt");
       Console.WriteLine(fileContents);
