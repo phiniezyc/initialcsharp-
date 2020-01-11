@@ -13,6 +13,8 @@ namespace initialcsharp
 
       string[] fileContents = File.ReadAllLines("csharptest.txt");
       Console.WriteLine(fileContents);
+
+      Second(["yes"]);
     }
   }
 }
