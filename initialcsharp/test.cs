@@ -7,7 +7,7 @@ namespace test
   {
     static void Second(string[] args)
     {
-      Console.WriteLine(fileContents);
+      Console.WriteLine("2nd connected");
     }
   }
 }
