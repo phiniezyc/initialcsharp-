@@ -1,8 +1,8 @@
 using System;
 
-namespace Test
+namespace Second_Program
 {
-  class Second_Program
+  class Second_Class
   {
     public void Second(string message)
     {
