@@ -7,7 +7,7 @@ namespace initialcsharp
   {
     static void Main(string[] args)
     {
-      string[] lines = { "This is a test", "It work!", "Yep!" };
+      string[] lines = { "This is a test", "It works!", "Yep!" };
       File.WriteAllLines("csharptest.txt", lines);
       Console.WriteLine("Hello World!\nAloha Engineering");
 
