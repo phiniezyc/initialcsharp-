@@ -6,7 +6,7 @@ namespace Second_Program
   {
     public void Second(string message)
     {
-      Console.WriteLine("2nd connected {0}", message);
+      Console.WriteLine("2nd class is connected and is this is the message {0}", message);
     }
   }
 }
