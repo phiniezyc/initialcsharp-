@@ -6,7 +6,7 @@ namespace Third_Program
   {
     public void Third(string message)
     {
-      Console.WriteLine("2nd class is connected and is this is the message: {0}", message);
+      Console.WriteLine("Third class is connected and is this is the message: {0}", message);
     }
   }
 }
