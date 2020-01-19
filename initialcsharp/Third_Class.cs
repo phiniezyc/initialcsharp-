@@ -1,6 +1,6 @@
 using System;
 
-namespace Second_Program
+namespace Third_Program
 {
   class Second_Class
   {
