@@ -2,7 +2,7 @@ using System;
 
 namespace Third_Program
 {
-  class Second_Class
+  class Third_Class
   {
     public void Second(string message)
     {
