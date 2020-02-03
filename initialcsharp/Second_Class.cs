@@ -9,7 +9,7 @@ namespace Second_Program
     {
       Console.WriteLine("2nd class is connected and is this is the message: {0}", message);
       Third_Program.Third_Class test_import = new Third_Class();
-      test_import.Third("This is the 3rd class, yep yep. This 3rd class and other classes are connected!!!!");
+      test_import.Third("This is the 3rd class, yep yep! This 3rd class and other classes are connected!!!!");
     }
   }
 }
